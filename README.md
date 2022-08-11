@@ -7,7 +7,7 @@ Our proposed EdgeCut methods EdgeCut-Lite(ECL) and EdgeCut-Full(ECF) are compare
 
 ## Quick Start for our repository
 
-If the software dependencies are met, then it is easy to run this repository. If you run cell by cell, you will get the result (total hop count, aspl, diameter, and time required) of a 8x8, 64 node ring network for all the experimenting methods.
+If the software dependencies are met, then it is simple to run this repository. If you run cell by cell, you will get the results(total hop count, aspl, diameter, and time required) for a 8x8, 64 node ring network.
 If you are interested to run all the different sizes of networks then you will need to uncomment the lines in the last cell.   
 
 *Software dependencies*
@@ -18,10 +18,10 @@ If you are interested to run all the different sizes of networks then you will n
 
 ## References
  
-[^1] Koibuchi, M.; Matsutani, H.; Amano, H.; Hsu, D.F.; Casanova, H. A case for random shortcut topologies for HPC interconnects. 
+[1] Koibuchi, M.; Matsutani, H.; Amano, H.; Hsu, D.F.; Casanova, H. A case for random shortcut topologies for HPC interconnects. 
 In Proceedings of the 2012 39th Annual International Symposium on Computer Architecture (ISCA). IEEE, 2012, pp. 177–188.
 
-[^2] Kirkpatrick, S.; Gelatt, C.D.; Vecchi, M.P. Optimization by simulated annealing. science 1983, 220, 671–680.
+[2] Kirkpatrick, S.; Gelatt, C.D.; Vecchi, M.P. Optimization by simulated annealing. science 1983, 220, 671–680.
 
 
 ## Contact Us
