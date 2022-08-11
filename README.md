@@ -2,7 +2,7 @@ Edge-based Heuristics for Optimizing Shortcut-Augmented Topologies for HPC Inter
 ========
 
 This is the code repository of the proposed heuristic methods presented on the paper "Edge-based Heuristics for Optimizing Shortcut-Augmented Topologies for HPC Interconnects". 
-Our proposed EdgeCut methods EdgeCut-Lite(ECL) and EdgeCut-Full(ECF) are compared with the state-of-the-art vertex-based randome shortcut(VRS)[^1] and simulated annealing algorithm[^2]. 
+Our proposed EdgeCut methods EdgeCut-Lite(ECL) and EdgeCut-Full(ECF) are compared with the state-of-the-art vertex-based randome shortcut(VRS)[1] and simulated annealing algorithm[2]. 
 
 
 ## Quick Start for our repository
